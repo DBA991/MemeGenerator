@@ -1,2 +1,2 @@
 # MemeGenerator
- Desktop app for meme
+ Desktop app for creating memes
